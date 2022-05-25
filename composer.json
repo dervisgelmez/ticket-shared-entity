@@ -1,0 +1,21 @@
+{
+    "name": "dervis/ticket-entity-bundle",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "description": "Ticket Entity Bundle",
+    "version": "0.0.1",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Dervis Gelmez",
+            "email": "dervissgelmez@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ticket\\EntityBundle\\": ""
+        }
+    }
+}
+
